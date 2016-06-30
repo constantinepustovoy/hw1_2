@@ -1,0 +1,29 @@
+.canvas{
+	width: 50%;
+	margin: 0;
+	font-size: 20px;
+}
+
+h1{
+	margin: 30px;
+  	text-align: center;
+}
+
+ .photo{
+ 	display: block;
+ 	width: 40%;
+ 	margin: 20px auto;
+}
+
+.paragraf{
+	border-bottom: 3px solid grey;
+	line-height: 25px;
+}
+
+.phone{
+	padding-bottom: 20px;
+}
+
+.paragraf, .end{
+	padding: 25px 15px;
+}
